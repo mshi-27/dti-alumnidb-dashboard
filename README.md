@@ -2,7 +2,7 @@
 
 A full-stack alumni management dashboard built for Cornell Digital Tech & Innovation. It replaces a manual CSV-and-bulk-upload workflow with a self-service interface for creating, editing, and maintaining alumni records.
 
-> **Demo note:** The recorded demo uses fictional data. Production source code, configuration, and data are private because this is an internal Cornell tool.
+> **Demo note:** The recorded demo uses fictional data. Production source code can be found at the public repo https://github.com/cornell-dti/idol.
 
 ## Demo
 
